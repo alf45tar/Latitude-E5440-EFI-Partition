@@ -21,18 +21,18 @@ A fully working and totally stable OpenCore EFI partition to boot macOS Big Sur 
   - VGA
   - Internal microphone
   - Audio jack
-  - Fn brighness up
-  - Fn brighness down
+  - Fn brighness keys
   - Deep sleep
   
 ## Tested on
+  - Dell Latitude E5440
   - Intel(R) Core(TM) i5-4300U CPU @ 1.90GHz
   - RAM 8 GB
   - Samsung SSD PM851 mSATA 128GB
 
 ## Installation guide
 
-Installing macOS on Dell Latitude E5440 will be very relaxing becasue the hard job to prepare the EFI partition has been already completed.
+Installing macOS on Dell Latitude E5440 will be very relaxing because the hard job to prepare the EFI partition has been already completed.
 The only effort requested to you is to prepare the macOS installation USB key.
 
 https://dortania.github.io/OpenCore-Install-Guide/installer-guide/#creating-the-usb
