@@ -26,7 +26,7 @@ A fully working and totally stable OpenCore EFI partition to boot macOS Big Sur 
   - Deep sleep
   
 ## Tested on
-  - Dell Latitude E5440
+  - [Dell Latitude E5440](https://www.dell.com/support/manuals/en-us/latitude-e5440-laptop/delllatitudee5440_om-v2/specifications?guid=guid-fa08d88f-67d7-4277-a7b9-d872f106a82b&lang=en-us)
   - Intel(R) Core(TM) i5-4300U CPU @ 1.90GHz
   - RAM 8 GB
   - 14" LCD HD+ (1600 x 900)
