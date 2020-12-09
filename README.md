@@ -9,9 +9,10 @@ A fully working and totally stable OpenCore EFI partition to boot macOS Big Sur 
   - WIFI (Dell DW 1510 based on Broadcom BCM4322 802.11a/b/g/n)
   - USB (left and right USB 3.0 ports, rear USB 2.0 port)
   - SATA HD or SSD, mSATA SSD
+  - SD memory card reader (O2 Micro SD/MMC)
   - Keyboard
   - Touchpad
-  - Audio (ALC292 internal speakers)
+  - Audio (Realtek ALC3226 equivalent to ALC292) internal speakers
   - LCD brightness 
   - Volume buttons
   - Fn keys (with the exceptions of brighness keys)
@@ -28,6 +29,7 @@ A fully working and totally stable OpenCore EFI partition to boot macOS Big Sur 
   - Dell Latitude E5440
   - Intel(R) Core(TM) i5-4300U CPU @ 1.90GHz
   - RAM 8 GB
+  - 14" LCD HD+ (1600 x 900)
   - Samsung SSD PM851 mSATA 128GB
 
 ## Installation guide
