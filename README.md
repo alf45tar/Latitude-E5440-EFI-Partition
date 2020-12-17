@@ -1,6 +1,6 @@
 # Latitude E5440 EFI Partition
 
-A fully working and totally stable OpenCore EFI partition to boot macOS Big Sur (11.0.1) or macOS Catalina (10.15.7) in your Dell Latitude E5440 (Haswell).
+A fully working and totally stable OpenCore EFI partition to boot macOS Big Sur (11.1) or macOS Catalina (10.15.7) in your Dell Latitude E5440 (Haswell).
 
 ## Working
   - GPU (Intel HD Graphics 4400 1536MB)
